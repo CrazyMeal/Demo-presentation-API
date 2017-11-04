@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>fr.crazymeal</groupId>
-	<artifactId>demo-conference-api</artifactId>
+	<artifactId>demo-presentation-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>demo-conference-api</name>
+	<name>demo-presentation-api</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
